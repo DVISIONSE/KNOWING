@@ -60,7 +60,8 @@ input:focus{
     margin: 20px 0;
     border: 1px solid #ddd;
     padding: 20px;
-      overflow: scroll;
+      overflow: auto;
+      
   }
 @media (max-width:320px){
        .messages{
