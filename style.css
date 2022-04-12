@@ -61,8 +61,10 @@ input:focus{
     border: 1px solid #ddd;
     padding: 20px;
       overflow: auto;
-      
   }
+.messages::-webkit-scrollbar{
+    opacity:0;
+}
 @media (max-width:320px){
        .messages{
            height: 345px;
