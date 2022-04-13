@@ -1,7 +1,8 @@
 // Your web app's Firebase configuration
-const firebaseConfig = {
+ const firebaseConfig = {
     apiKey: "AIzaSyBL0mrK0skOh0G8_hRXdY59ICUJHe_54C8",
     authDomain: "mensager-94c25.firebaseapp.com",
+    databaseURL: "https://mensager-94c25-default-rtdb.firebaseio.com",
     projectId: "mensager-94c25",
     storageBucket: "mensager-94c25.appspot.com",
     messagingSenderId: "921263926126",
