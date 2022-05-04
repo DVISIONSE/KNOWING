@@ -2,6 +2,7 @@
 const firebaseConfig = {
   apiKey: "AIzaSyCBm_kXkFvl4-WBTzQocDbcYmnIZfVohUU",
   authDomain: "test-f7ed0.firebaseapp.com",
+  databaseURL: "https://test-f7ed0-default-rtdb.firebaseio.com",
   projectId: "test-f7ed0",
   storageBucket: "test-f7ed0.appspot.com",
   messagingSenderId: "587018470480",
