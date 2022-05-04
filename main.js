@@ -1,13 +1,12 @@
 // Your web app's Firebase configuration
- const firebaseConfig = {
-    apiKey: "AIzaSyBL0mrK0skOh0G8_hRXdY59ICUJHe_54C8",
-    authDomain: "mensager-94c25.firebaseapp.com",
-    databaseURL: "https://mensager-94c25-default-rtdb.firebaseio.com",
-    projectId: "mensager-94c25",
-    storageBucket: "mensager-94c25.appspot.com",
-    messagingSenderId: "921263926126",
-    appId: "1:921263926126:web:3f5648cdb3c5a6f0b1ef7f"
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyCBm_kXkFvl4-WBTzQocDbcYmnIZfVohUU",
+  authDomain: "test-f7ed0.firebaseapp.com",
+  projectId: "test-f7ed0",
+  storageBucket: "test-f7ed0.appspot.com",
+  messagingSenderId: "587018470480",
+  appId: "1:587018470480:web:1ad60247cd711f2ef0fd55"
+};
   firebase.initializeApp(firebaseConfig)
 const db = firebase.database();
 const username =document.getElementById("username");
